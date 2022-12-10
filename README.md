@@ -1,2 +1,3 @@
 # app_api_flask
-test de déployement
+API Flask déployé sur la plateforme Heroku 
+Lien : https://appsapiflask.herokuapp.com/
