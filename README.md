@@ -73,10 +73,11 @@ Assurez-vous d'avoir les outils suivants installés sur votre machine :
 ### Liens
 - **Streamlit App**: [Dashboard Link](https://bit.ly/dashboard3hkDxiN)
 - **GitHub Repositories**:
-  - [Streamlit Dashboard](https://github.com/KH-spec/Implement-a-Loan-Scoring-Model-P7)
-  - [Flask API](https://github.com/KH-spec/app_api_flask)
+  - [Streamlit Dashboard](https://github.com/KH-spec/Implement-a-Loan-Scoring-Model-P7-Part-1)
+  - [Flask API](https://github.com/KH-spec/Implement-a-Loan-Scoring-Model-P7-Part-2)
 
 ## Auteur
+
 
 - **KH-spec** - [GitHub Profile](https://github.com/KH-spec)
 
