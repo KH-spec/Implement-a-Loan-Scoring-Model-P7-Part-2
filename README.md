@@ -70,6 +70,12 @@ Assurez-vous d'avoir les outils suivants installés sur votre machine :
 - Le backend permet au tableau de bord Streamlit de consommer des données et d'effectuer des prédictions de scoring de crédit.
 - Les utilisateurs peuvent envoyer des requêtes POST à l'API pour obtenir des résultats basés sur leurs données d'entrée.
 
+### Liens
+- **Streamlit App**: [Dashboard Link](https://bit.ly/dashboard3hkDxiN)
+- **GitHub Repositories**:
+  - [Streamlit Dashboard](https://github.com/KH-spec/Implement-a-Loan-Scoring-Model-P7)
+  - [Flask API](https://github.com/KH-spec/app_api_flask)
+
 ## Auteur
 
 - **KH-spec** - [GitHub Profile](https://github.com/KH-spec)
