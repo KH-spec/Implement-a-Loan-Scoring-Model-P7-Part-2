@@ -74,10 +74,6 @@ Assurez-vous d'avoir les outils suivants installés sur votre machine :
 
 - **KH-spec** - [GitHub Profile](https://github.com/KH-spec)
 
-## License
-
-Ce projet est sous licence MIT - consultez le fichier [LICENSE](LICENSE) pour plus de détails.
-
 ---
 
 ★ N'hésitez pas à consulter le dépôt pour plus d'informations et à signaler des problèmes si vous en rencontrez. Bonne exploration !
