@@ -16,7 +16,6 @@ Voici les principaux fichiers et dossiers inclus dans ce dépôt :
 - `requirements.txt` : Liste des dépendances Python nécessaires pour exécuter l'application.
 - `Procfile` : Configuration pour le déploiement Heroku.
 - `models/` : Contient les fichiers de modèles pré-entrainés utilisés pour le scoring de crédit.
-- `templates/` et `static/` : Ressources pour les vues HTML (si applicables).
 
 ## Prérequis
 
@@ -30,7 +29,7 @@ Assurez-vous d'avoir les outils suivants installés sur votre machine :
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/KH-spec/app_api_flask.git
+   git clone https://github.com/KH-spec/Implement-a-Loan-Scoring-Model-P7-Part-2.git
    cd app_api_flask
    ```
 
